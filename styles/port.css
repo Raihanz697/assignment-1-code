@@ -1,39 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
 .font-inter {
   font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
   
-}
-header{
-    background-color:#FFFFFF;
-    padding-top: 16px;
-}
-
-nav {
-    width: 71%;
-    max-width: 1140px;
-    margin: 0px auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-}
-nav .menu {
-  display: flex;
-  list-style-type: none;
-  gap: 50px;
-  align-items: center;
-
-}  
-
-ul a {
-    text-decoration: none;
-}
-
-#banner .banner-content h1{
-    text-align: center;
 }
